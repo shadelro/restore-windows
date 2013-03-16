@@ -1,0 +1,48 @@
+Microsoft Outlook
+4
+22
+1436
+878
+18
+Microsoft Lync
+5
+22
+304
+878
+18
+Colloquy
+668
+22
+771
+878
+18
+Google Chrome
+0
+22
+1440
+878
+19
+iTerm
+0
+22
+997
+876
+20
+Sublime Text 2
+558
+22
+882
+878
+20
+Spotify
+0
+22
+1440
+878
+21
+firefox
+0
+22
+1440
+878
+22

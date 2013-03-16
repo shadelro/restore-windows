@@ -22,9 +22,9 @@ if __name__ == "__main__":
     if command == 'click_high':
         click(950, 5)
     elif command == 'down':
-        down(750, 30)
+        down(1200, 30)
     elif command == 'up':
-        up(750, 30)
+        up(1200, 30)
     else:
         print 'Unrecognized command.'
     sys.exit()
