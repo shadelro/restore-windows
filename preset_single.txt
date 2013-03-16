@@ -4,24 +4,18 @@ Microsoft Outlook
 1436
 878
 18
-Microsoft Lync
-5
-22
-304
-878
-18
-Colloquy
-668
-22
-771
-878
-18
 Google Chrome
 0
 22
 1440
 878
 19
+Finder
+333
+242
+770
+438
+20
 iTerm
 0
 22
@@ -34,6 +28,12 @@ Sublime Text 2
 882
 878
 20
+AppleScript Editor
+617
+22
+823
+878
+20
 Spotify
 0
 22
@@ -43,6 +43,6 @@ Spotify
 firefox
 0
 22
-1440
+1268
 878
 22
